@@ -1,0 +1,53 @@
+name: Feature request
+description: Propose a new capability or an improvement.
+title: "feat: "
+labels: ["feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe the problem first, then the proposed solution. Keep client-confidential details out of public issues.
+  - type: input
+    id: repository
+    attributes:
+      label: Repository
+      placeholder: G6CODERS/polyexam
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What user problem does this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Scope
+      options:
+        - Product (PolyExam)
+        - Org site / tooling
+        - Client delivery (private)
+        - Internal
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched existing issues and this is not a duplicate.
+          required: true
+        - label: This request contains no client-confidential information.
+          required: true

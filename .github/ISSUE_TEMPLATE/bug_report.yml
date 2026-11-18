@@ -1,0 +1,68 @@
+name: Bug report
+description: Report a reproducible problem in a G6CODERS repository.
+title: "fix: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. Do not include secrets, credentials, or personal data.
+        For security vulnerabilities, use SECURITY.md instead of this form.
+  - type: input
+    id: repository
+    attributes:
+      label: Repository
+      description: Which G6CODERS repository?
+      placeholder: G6CODERS/polyexam
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: A clear description of the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Go to ...
+        2. Click ...
+        3. See error ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, browser, PHP/Python/Node version, branch or commit.
+      placeholder: Ubuntu 24.04, Firefox 130, PHP 8.2, main@abc1234
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: Remove secrets and personal data before pasting.
+      render: shell
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched existing issues and this is not a duplicate.
+          required: true
+        - label: I removed secrets and personal data from this report.
+          required: true

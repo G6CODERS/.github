@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="G6CODERS">
+  <rect width="128" height="128" rx="30" fill="#0f172a"/>
+  <path d="M64 14 106 38v52L64 114 22 90V38z" fill="#22d3ee"/>
+  <text x="64" y="82" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="42" font-weight="800" text-anchor="middle" fill="#0f172a">G6</text>
+</svg>

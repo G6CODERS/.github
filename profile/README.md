@@ -32,6 +32,14 @@ G6CODERS est un studio logiciel dirigé par des étudiants de Polytech Douala. N
 - Applications web métier, API backend, intégrations de paiement et déploiement cloud.
 - Le code client reste privé. Les études de cas publiées sont anonymisées.
 
+### État
+
+| Projet | Statut |
+|---|---|
+| PolyExam | Développement actif (privé) |
+| Site G6CODERS | Code public, déploiement en cours |
+| Livraison client | Privée, sur recommandation |
+
 ### Notre façon de travailler
 
 - Revue de code et intégration continue sur les dépôts actifs.
@@ -46,7 +54,7 @@ Laravel · PHP · Python · FastAPI · TypeScript · React · Next.js · Postgre
 ### Contact
 
 - Email : g6coders@gmail.com
-- Site web : bientôt
+- Site web : [code source public](https://github.com/G6CODERS/g6-site-web) · déploiement bientôt
 - Une question ? Ouvrez une issue dans ce dépôt.
 
 ---
@@ -68,6 +76,14 @@ G6CODERS is a student-run software studio from Polytech Douala, Cameroon. We bui
 - Business web applications, backend APIs, payment integrations, and cloud deployments.
 - Client code stays private. Published case studies are anonymized.
 
+### Status
+
+| Project | Status |
+|---|---|
+| PolyExam | Active development (private) |
+| G6CODERS website | Public source, deployment in progress |
+| Client delivery | Private, by referral |
+
 ### How we work
 
 - Code review and continuous integration on active repositories.
@@ -82,7 +98,7 @@ Laravel · PHP · Python · FastAPI · TypeScript · React · Next.js · Postgre
 ### Contact
 
 - Email: g6coders@gmail.com
-- Website: coming soon
+- Website: [public source](https://github.com/G6CODERS/g6-site-web) · deployment coming soon
 - Questions: open an issue in this repository.
 
 ---

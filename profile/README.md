@@ -26,6 +26,8 @@ G6CODERS est un studio logiciel dirigé par des étudiants de Polytech Douala. N
 **Produits**
 
 - **PolyExam** — plateforme d'apprentissage pour les étudiants de Polytech : épreuves, corrigés, TD et gestion des abonnements. En développement actif.
+  - Frontend public (MIT) : [G6CODERS/polyexam-web](https://github.com/G6CODERS/polyexam-web)
+  - API, admin Filament et contenu : privés
 
 **Livraison client**
 
@@ -62,6 +64,8 @@ G6CODERS is a student-run software studio from Polytech Douala, Cameroon. We bui
 **Products**
 
 - **PolyExam** — a learning platform for Polytech students: past papers, solutions, tutorials, and subscription management. Actively developed.
+  - Public frontend (MIT): [G6CODERS/polyexam-web](https://github.com/G6CODERS/polyexam-web)
+  - API, Filament admin, and content: private
 
 **Client delivery**
 

@@ -40,6 +40,14 @@ G6CODERS est un studio logiciel dirigé par des étudiants de Polytech Douala. N
 | Site G6CODERS | Code public, déploiement en cours |
 | Livraison client | Privée, sur recommandation |
 
+### Équipe
+
+| Membre | Rôle |
+|---|---|
+| [@Zeusse-Neumbi](https://github.com/Zeusse-Neumbi) | Owner · Backend & AI |
+| [@Karlofficiel](https://github.com/Karlofficiel) | Owner · Product lead |
+| [@Mystral-hub](https://github.com/Mystral-hub) | Maintainer · Client delivery |
+
 ### Notre façon de travailler
 
 - Revue de code et intégration continue sur les dépôts actifs.
@@ -83,6 +91,14 @@ G6CODERS is a student-run software studio from Polytech Douala, Cameroon. We bui
 | PolyExam | Active development (private) |
 | G6CODERS website | Public source, deployment in progress |
 | Client delivery | Private, by referral |
+
+### Team
+
+| Member | Role |
+|---|---|
+| [@Zeusse-Neumbi](https://github.com/Zeusse-Neumbi) | Owner · Backend & AI |
+| [@Karlofficiel](https://github.com/Karlofficiel) | Owner · Product lead |
+| [@Mystral-hub](https://github.com/Mystral-hub) | Maintainer · Client delivery |
 
 ### How we work
 
